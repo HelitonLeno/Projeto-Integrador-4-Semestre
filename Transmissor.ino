@@ -1,3 +1,11 @@
+/*
+*
+* @Projeto integrador 4° semestre Ciência da Computação
+* @author: Heliton Leno
+* @email: ciencia_@live.com
+*
+*/
+
 #include <SoftwareSerial.h>  
 #include <Wire.h>
  
